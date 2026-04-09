@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbd0d58d00c14b641af5d13c6621100e, type: 3}
+  m_Name: InventoryConfig
+  m_EditorClassIdentifier: 
+  totalSlots: 50
+  initiallyUnlockedSlots: 15
+  unlockCosts:
+  - SlotId: 15
+    Cost: 5
+  - SlotId: 16
+    Cost: 10
+  - SlotId: 17
+    Cost: 15
+  - SlotId: 18
+    Cost: 20
+  - SlotId: 19
+    Cost: 25
+  - SlotId: 20
+    Cost: 30
+  - SlotId: 21
+    Cost: 35
+  - SlotId: 22
+    Cost: 40
+  - SlotId: 23
+    Cost: 45
+  - SlotId: 24
+    Cost: 50
+  - SlotId: 25
+    Cost: 55
+  - SlotId: 26
+    Cost: 60
+  - SlotId: 27
+    Cost: 65
+  - SlotId: 28
+    Cost: 70
+  - SlotId: 29
+    Cost: 75
+  - SlotId: 30
+    Cost: 80
+  - SlotId: 31
+    Cost: 85
+  - SlotId: 32
+    Cost: 90
+  - SlotId: 33
+    Cost: 95
+  - SlotId: 34
+    Cost: 100
+  - SlotId: 35
+    Cost: 105
+  - SlotId: 40
+    Cost: 110
+  - SlotId: 41
+    Cost: 115
+  - SlotId: 42
+    Cost: 120
+  - SlotId: 43
+    Cost: 125
+  - SlotId: 44
+    Cost: 130
+  - SlotId: 45
+    Cost: 135
+  - SlotId: 46
+    Cost: 140
+  - SlotId: 47
+    Cost: 145
+  - SlotId: 48
+    Cost: 150
+  - SlotId: 49
+    Cost: 155
